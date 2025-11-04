@@ -1,5 +1,5 @@
 # creating directories
-mkdir - src
+mkdir -p src
 mkdir -p research
    
    #creating files
