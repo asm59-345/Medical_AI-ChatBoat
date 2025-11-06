@@ -5,8 +5,9 @@ An intelligent virtual assistant that helps users with health-related tasks like
 ### STEPS:
     Clone the repository
 
-    ```bash
-    Project repo: https://github.com/
+ ```bash
+    Project https://github.com/asm59-345/Medical_AI-ChatBoat.git
+
 ### Step 01 - Create a conda environment after opening the repository
 
     ```bash
